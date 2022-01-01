@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8926CE6F-4647-9A4E-FD42-3040C14A4193}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MicVolumeSample.cs">
+    <Files>
+      <File FileName="Assets/MicVolumeSample.cs" Line="8" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f8541e7a-ae10-42ab-b308-fd99aad03605" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
